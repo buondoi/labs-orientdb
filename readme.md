@@ -1,0 +1,1 @@
+# An study project about using OrientDB
