@@ -1,0 +1,22 @@
+{
+  "namespace": "products",
+  "version": "1.0",
+  "description": "Product information",
+  "properties": [
+    {
+      "name": "firstName",
+      "type": "string",
+      "required": true,
+      "defaultValue": "",
+      "constraints": [
+        ""
+      ],
+      "alias": "firstName"
+    },
+    {
+      "name": "id",
+      "type": "identity"
+    }
+  ],
+  "dialect": "mysql"
+}

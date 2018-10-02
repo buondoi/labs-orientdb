@@ -43,6 +43,7 @@ repositories {
 
 dependencies {
 
+    compile('org.apache.avro:avro:1.8.2')
     compile('com.orientechnologies:orientdb-server:3.0.7')
     compile('com.orientechnologies:orientdb-studio:3.0.7')
     compile('com.orientechnologies:orientdb-jdbc:3.0.7')
